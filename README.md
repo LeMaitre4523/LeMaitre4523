@@ -1,6 +1,9 @@
 <h3 align="left">Vues de profil :</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemaitre4523&label=Profile%20views&color=0e75b6&style=flat" alt="lemaitre4523" /> </p>
 
+<h3 align="left">Contact :</h3>
+<p align="left">Discord : lemaitre4523</p>
+
 <h3 align="left">Trophés :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemaitre4523" alt="lemaitre4523" /></a> </p>
 
