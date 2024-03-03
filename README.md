@@ -3,6 +3,7 @@
 
 <h3 align="left">Contact :</h3>
 <p align="left">Discord : lemaitre4523</p>
+<p align="left">Email : <a href="mailto:lemaitre4523.dev@gmail.com">lemaitre4523.dev@gmail.com</a></p>
 
 <h3 align="left">Trophés :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemaitre4523" alt="lemaitre4523" /></a> </p>
